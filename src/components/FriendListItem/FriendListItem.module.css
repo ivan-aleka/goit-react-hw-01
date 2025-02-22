@@ -20,3 +20,9 @@
 .FriendlistItem:focus {
   transform: scale(1.05);
 }
+.Online {
+  color: green;
+}
+.Offline {
+  color: red;
+}
